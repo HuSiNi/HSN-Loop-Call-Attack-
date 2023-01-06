@@ -27,4 +27,4 @@ httpget() 呼叫次数GET部分，用PHP简单写个脚本弄个数据库即可�
 | 呼一个礼拜 | 25¥  |
 |  呼到停机  | 50¥  |
 
-详情联系 telegram @assassin619 
+详情联系 telegram @assassin618
